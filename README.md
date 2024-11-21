@@ -5,13 +5,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Asad Ullah Masood</h1>
-<h3 align="center">Founding Partner of xNeurons and Senior Data Scientist, I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
+<h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
 
 <img align="right" alt="Coding" width="400" src="vlc-record-2024-11-21-20h45m07s-videoplayback.webm-.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadmasood10054&label=Profile%20views&color=0e75b6&style=flat" alt="asadmasood10054" /> </p>
-
-- 🔭 I’m currently working on [xNeurons](https://www.xneurons.online/)
 
 - 🌱 I’m currently learning **Neural Network,Data Insights etc**
 
