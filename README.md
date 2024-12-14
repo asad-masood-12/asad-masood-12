@@ -7,14 +7,7 @@
 <h1 align="center">Hi 👋, I'm Asad Ullah Masood</h1>
 <h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
 
-<div style="width: 400px; height: 400px; border-radius: 50%; overflow: hidden;">
-  <img 
-    alt="Coding" 
-    src="vlc-record-2024-11-21-20h45m07s-videoplayback.webm-.gif" 
-    style="width: 100%; height: 100%; object-fit: cover;"
-  />
-</div>
-
+<img align="right" alt="Coding" width="400" src="vlc-record-2024-11-21-20h45m07s-videoplayback.webm-.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadmasood10054&label=Profile%20views&color=0e75b6&style=flat" alt="asadmasood10054" /> </p>
 
