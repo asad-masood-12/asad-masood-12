@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://tse3.mm.bing.net/th?id=OIP.A_2r0C1Iv9ffzb9-S6VVmwHaEK&pid=Api&P=0&h=220" alt="MasterHead">
+  <a href="https://github.com/asadmasood10054">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Agentic%20AI%20Developer&animation=fadeIn" alt="Agentic AI Developer Header">
   </a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Asad Ullah Masood</h1>
 <h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
