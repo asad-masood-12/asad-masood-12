@@ -5,7 +5,6 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Asad Ullah Masood</h1>
 <h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
 
 <img align="right" alt="Coding" width="400" src="vlc-record-2024-11-21-20h45m07s-videoplayback.webm-.gif">
@@ -73,4 +72,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-masood-12&show_icons=true&locale=en" alt="asad-masood-12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-masood-12&" alt="asad-masood-12" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asad-masood-12&theme=transparent&hide_border=false" alt="asad-masood-12" />
+</div>
