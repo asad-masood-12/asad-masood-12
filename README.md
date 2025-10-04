@@ -43,20 +43,12 @@
       <br>Scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/XGBoost_logo.png" width="48" height="48" alt="XGBoost" />
-      <br>XGBoost
-    </td>
-    <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/123540868?s=200&v=4" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/119915476?s=200&v=4" width="48" height="48" alt="LiveKit" />
       <br>LiveKit
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenCV_logo_no_text.svg" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
     </td>
     <td align="center" width="96">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
@@ -73,10 +65,6 @@
       <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
       <br>Seaborn
     </td>
@@ -91,14 +79,6 @@
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="Database Systems" />
       <br>Database & Systems
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/FastAPI_logo.png" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Figma-logo.svg" width="48" height="48" alt="Ultralytics" />
-      <br>Ultralytics
     </td>
   </tr>
   <tr>
@@ -134,13 +114,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
       <br>Power BI
     </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Statsmodels_logo.svg" width="48" height="48" alt="Statsmodels" />
-      <br>Statsmodels
-    </td>
   </tr>
 </table>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-masood-12&show_icons=true&locale=en&layout=compact" alt="asad-masood-12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-masood-12&show_icons=true&locale=en" alt="asad-masood-12" /></p>
