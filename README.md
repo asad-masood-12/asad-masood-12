@@ -24,98 +24,51 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/123540868?s=200&v=4" width="48" height="48" alt="LangChain" />
-      <br>LangChain
-    </td>
-    <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/119915476?s=200&v=4" width="48" height="48" alt="LiveKit" />
-      <br>LiveKit
-    </td>
-    <td align="center" width="96">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
-      <br>Hugging Face
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-      <br>Seaborn
-    </td>
-    <td align="center" width="96">
-      <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="48" height="48" alt="Plotly" />
-      <br>Plotly
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" width="48" height="48" alt="SQL" />
-      <br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="Database Systems" />
-      <br>Database & Systems
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-      <br>Jira
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="48" height="48" alt="Bitbucket" />
-      <br>Bitbucket
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="48" height="48" alt="Excel" />
-      <br>Excel
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
-      <br>Tableau
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
-      <br>Power BI
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://kubernetes.io/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" /></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" /></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ai" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=npm" /></a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" /></a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-masood-12&show_icons=true&locale=en&layout=compact" alt="asad-masood-12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-masood-12&show_icons=true&locale=en" alt="asad-masood-12" /></p>
