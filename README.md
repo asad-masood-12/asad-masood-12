@@ -27,104 +27,116 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
       <br>PyTorch
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br>React
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/XGBoost_logo.png" width="48" height="48" alt="XGBoost" />
+      <br>XGBoost
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
+      <img src="https://avatars.githubusercontent.com/u/123540868?s=200&v=4" width="48" height="48" alt="LangChain" />
+      <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://avatars.githubusercontent.com/u/119915476?s=200&v=4" width="48" height="48" alt="LiveKit" />
+      <br>LiveKit
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenCV_logo_no_text.svg" width="48" height="48" alt="OpenCV" />
+      <br>OpenCV
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
-      <br>Scikit-Learn
+      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
     </td>
     <td align="center" width="96">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
       <br>Seaborn
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
+      <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="48" height="48" alt="Plotly" />
+      <br>Plotly
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" width="48" height="48" alt="SQL" />
+      <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" alt="Database Systems" />
+      <br>Database & Systems
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="Matlab" />
-      <br>Matlab
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/FastAPI_logo.png" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Figma-logo.svg" width="48" height="48" alt="Ultralytics" />
+      <br>Ultralytics
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="48" height="48" alt="Bitbucket" />
+      <br>Bitbucket
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="48" height="48" alt="Excel" />
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
+      <br>Tableau
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Statsmodels_logo.svg" width="48" height="48" alt="Statsmodels" />
+      <br>Statsmodels
     </td>
   </tr>
 </table>
