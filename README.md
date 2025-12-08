@@ -68,10 +68,4 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-masood-12&show_icons=true&locale=en&layout=compact" alt="asad-masood-12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-masood-12&show_icons=true&locale=en" alt="asad-masood-12" /></p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asad-masood-12&theme=transparent&hide_border=false" alt="asad-masood-12" />
-</div>
